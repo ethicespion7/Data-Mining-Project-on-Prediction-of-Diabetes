@@ -1,3 +1,3 @@
 # mini_project_1
 
-Diabetes Prediction : Machine Learning approach.
+Diabetes Prediction : Data Mining Project on Prediction of Diabetes
